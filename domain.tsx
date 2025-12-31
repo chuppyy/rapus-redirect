@@ -1,2 +1,2 @@
 export const domain = "https://rapus.feji.io";
-//export const domain = "https://local.livextop.com";
+//export const domain =  "https://local.livextop.com";
